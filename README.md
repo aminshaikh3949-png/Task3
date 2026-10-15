@@ -53,3 +53,6 @@ Suggested repository contents:
 - `README.md`
 - `outputs/` (the four chart images and summary CSV files)
 - `Sample - Superstore.csv` only if you are allowed to redistribute the dataset
+
+#Author
+Shaikh Ameen
